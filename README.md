@@ -1,2 +1,6 @@
-# AWSDeepRacer
-Hands on with machine learning through a cloud based 3D racing simulator, fully autonomous 1/18th scale race car driven by reinforcement learning.
+# AWS-Deepracer
+
+#### Rigorously trained a fully autonomous 1/18th scale race car to complete virtual re: Invent 2018 circuit in 21.23sec.
+
+#### Optimized the reward function which reduced the time taken to complete the circuit by 26.2%.
+
