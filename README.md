@@ -4,7 +4,6 @@
 
 #### Optimized the reward function which reduced the time taken to complete the circuit by 26.2%.
 
-#### Evaluation Results:
 
-![]("EvaluationResultsImg1.png")
+
 
